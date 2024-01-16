@@ -9,9 +9,8 @@ Online Reputation Management give  control over what potential customers see whe
 Social Media Marketing determine which platform is suited for your brand;
 
 ## Contents
-[Project Description] 
-(#project-description)
-[Credit](#credit)
+[Project Description] (#project-description)
+[Credit] (#credit)
 
 
 
